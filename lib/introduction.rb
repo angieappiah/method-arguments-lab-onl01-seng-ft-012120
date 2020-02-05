@@ -1,5 +1,4 @@
-def name 
+def 
   phrase = "Josh"
-  puts 'Hi'
-  
+  puts 'Hi, my name is #{"phrase"}!
 end
