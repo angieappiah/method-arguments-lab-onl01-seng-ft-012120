@@ -1,5 +1,4 @@
 def 
   introduction(name)
-  phrase = 'Josh'
-  puts 'Hi, my name is #{"phrase"}!'
+  puts "Hi, my name is #{name}."
 end
